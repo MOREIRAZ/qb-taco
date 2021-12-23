@@ -1,5 +1,5 @@
 # Taco Job for QBCore Framework
-taco job with target
+Taco job with target 
 
 ## Dependencies :
 QBCore Framework - https://github.com/qbcore-framework/qb-core
@@ -12,6 +12,7 @@ qb-menu - https://github.com/qbcore-framework/qb-menu
 
 nh-keyboard - https://github.com/nerohiro/nh-keyboard
 
+mlo - https://www.gta5-mods.com/maps/taco-restaurant-mlo-add-on-fivem-pablitomamutopaputo
 
 ## The script original 
 https://github.com/Zach488/qb-burgershot
