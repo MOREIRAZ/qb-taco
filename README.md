@@ -10,7 +10,7 @@ qb-target - https://github.com/BerkieBb/qb-target
 
 qb-menu - https://github.com/qbcore-framework/qb-menu
 
-nh-keyboard - ~~https://github.com/nerohiro/nh-keyboard
+nh-keyboard - https://github.com/nerohiro/nh-keyboard
 
 
 ## The script original 
